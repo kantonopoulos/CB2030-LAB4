@@ -1,0 +1,9 @@
+/thanadol_shiny-main
+__pycache__/
+literature/
+
+.DS_Store
+syn.Genotype_annotation.txt
+
+Lab4_worksheet_2023.pdf
+Lab4_worksheet_ANSWER.pdf
